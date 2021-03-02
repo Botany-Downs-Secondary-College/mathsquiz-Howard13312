@@ -1,4 +1,4 @@
-#mathsquizv5.py
+#mathsquizv6.py
 #Howard Li
 
 #import the tool kit interface (tkinter) modules
